@@ -1,0 +1,35 @@
+.corpo {
+    margin: 0px;
+    padding: 0px;}
+
+
+.div1 {
+        background-color: #d0a046d3;
+        width: 500px;
+        height: 500px;}
+
+.div2 {
+    background-color: #9af7a991;
+    width: 50%;
+    height: 50%;
+}
+
+.classe {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family:monospace;
+    font-weight: bold;
+}
+
+.div3 {
+    width: 50%;
+    height: 50vh;
+    background-color:rgb(0, 255, 255);
+}
+
+.div4 {
+    width: 75vw;
+    height: 50%; 
+    background-color: rgb(255, 0, 0); 
+}
